@@ -1,0 +1,58 @@
+[
+    {
+        "_id": 1,
+        "name": "Yamaha Bike",
+        "img": "https://i.ibb.co/gPXkH3c/leon-seierlein-Vc-BMbn7-KXHQ-unsplash-1-1.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": "150k"
+    },
+    {
+        "_id": 2,
+        "name": "Yamaha Bike",
+        "img": "https://i.ibb.co/J2j9ygB/omar-tursic-8-Td-YU1-WWkk-unsplash-1.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": "150k"
+    },
+    {
+        "_id": 3,
+        "name": "Yamaha Bike",
+        "img": "https://i.ibb.co/zJgXsNk/spartan-xozz-bl-Gd-Jvv-EZw-M-unsplash-1.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": "150k"
+    },
+    {
+        "_id": 4,
+        "name": "Yamaha Bike",
+        "img": "https://i.ibb.co/7Rc9ZzJ/conor-luddy-R2-Ppx-A2j0p-Q-unsplash-1.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": "150k"
+    },
+    {
+        "_id": 5,
+        "name": "Yamaha Bike",
+        "img": "https://i.ibb.co/q7jxkqf/harley-davidson-ee-TJKC-wz34-unsplash-1-1.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": "150k"
+    },
+    {
+        "_id": 6,
+        "name": "Yamaha Bike",
+        "img": "https://i.ibb.co/3vmz31g/andrew-pons-c-LHPacdtp-SY-unsplash-1.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": "150k"
+    },
+    {
+        "_id": 7,
+        "name": "Yamaha Bike",
+        "img": "https://i.ibb.co/TY6vYTZ/torrey-loomis-m-Jo-HFItel-Wk-unsplash-1.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": "150k"
+    },
+    {
+        "_id": 8,
+        "name": "Yamaha Bike",
+        "img": "https://i.ibb.co/QKj4Ljx/akash-gowda-QAZVWQN3-Jao-unsplash-1.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "price": "150k"
+    }
+]
