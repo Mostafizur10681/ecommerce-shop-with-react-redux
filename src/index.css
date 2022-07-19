@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.bg {
+  background-color: rgb(233, 233, 233);
+}
+
+.heading {
+  text-transform: uppercase;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.card-title {
+  text-transform: uppercase;
+  font-size: 21px;
+  font-weight: bold;
+}

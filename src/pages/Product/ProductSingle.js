@@ -1,8 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './Product.css'
-
-const Product = ({ product }) => {
+const ProductSingle = ({ product }) => {
     const { img, name, description, price } = product;
     return (
         <div className='col'>
@@ -19,4 +17,4 @@ const Product = ({ product }) => {
     );
 };
 
-export default Product;
+export default ProductSingle;
