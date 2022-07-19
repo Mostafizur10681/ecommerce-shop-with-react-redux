@@ -1,14 +1,18 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Product = ({ product }) => {
-    const { name, img, description, price } = product;
+    const { img, name, description, price } = product;
     return (
-        <div class="card" style={{ width: '18rem' }}>
-            <img src={img} class="card-img-top" alt="..." />
-            <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
+        <div className='col'>
+            <div class="card">
+                <img src={img} class="card-img-top" height='300px' widtth='600px' alt={img} />
+                <div class="card-body">
+                    <h5 class="card-title">{name}</h5>
+                    <p class="card-text">{description}</p>
+                    <p class="card-text fw-bold">Price: ${price}</p>
+                </div>
+                <button> <Link to="/" class="btn btn-primary w-100">Buy Now</Link></button>
             </div>
         </div>
     );
