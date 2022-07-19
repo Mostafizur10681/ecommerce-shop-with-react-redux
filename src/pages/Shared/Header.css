@@ -1,0 +1,10 @@
+/* Navbar */
+
+.navbar-nav li a {
+    font-size: 18px;
+}
+
+.navbar-brand {
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
